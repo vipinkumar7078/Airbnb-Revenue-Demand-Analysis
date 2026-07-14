@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+
+*.pkl
+
+.env
+
+.vscode/
+
+.DS_Store
+
+Thumbs.db
+*.xlsx
+
+models/*.pkl
